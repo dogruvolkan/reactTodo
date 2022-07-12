@@ -4,8 +4,8 @@ import Form from './components/Form';
 import List from "./components/List";
 
 const initialData = [
-  // { id: 1234, title: "write your code", isCompleted: true },
-  // { id: 5678, title: "clean your code", isCompleted: false },
+  { id: 1234, title: "write your code", isCompleted: true },
+  { id: 5678, title: "clean your code", isCompleted: false },
 ]
 
 function App() {
